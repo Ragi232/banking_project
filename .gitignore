@@ -1,0 +1,5 @@
+accounts.txt
+bank_backup.py
+receipts/
+**pycache**/
+*.pyc
